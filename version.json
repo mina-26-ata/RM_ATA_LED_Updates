@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/mina-26-ata/RM_ATA_LED_Updates/releases/download/v1.0/RM_ATA_LED.apk",
-  "notes": "الإصدار الأول من تطبيق RM_ATA_LED مع التحديث التلقائي"
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/mina-26-ata/RM_ATA_LED_Updates/releases/download/v1.1/RM_ATA_LED.apk",
+  "notes": "تحسين أزرار المؤثرات لتوضيح النصوص، حفظ تقسيم الفانوس اليدوي وإعدادات الإشارات على البوردة للعمل التلقائي بدون الهاتف، أولوية كاملة لإشارات السيارة وتشغيل أكثر من إشارة معاً، وتشغيل كل تأثير بكامل حدود منطقته."
 }
