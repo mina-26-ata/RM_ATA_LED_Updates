@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/mina-26-ata/RM_ATA_LED_Updates/releases/download/v1.1/RM_ATA_LED.apk",
-  "notes": "تحسين أزرار المؤثرات لتوضيح النصوص، حفظ تقسيم الفانوس اليدوي وإعدادات الإشارات على البوردة للعمل التلقائي بدون الهاتف، أولوية كاملة لإشارات السيارة وتشغيل أكثر من إشارة معاً، وتشغيل كل تأثير بكامل حدود منطقته."
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apkUrl": "https://github.com/mina-26-ata/RM_ATA_LED_Updates/releases/download/v1.2/RM_ATA_LED.apk",
+  "notes": "نقل منفذ إشارة اليمين في NodeMCU ESP8266 من D0 إلى D6 (GPIO12) ليعمل بسهولة D1 نفسها (مباشرة مع GND بدون مقاومة خارجية)، مع تحديث خريطة التوصيلات وفيرموير البوردة."
 }
