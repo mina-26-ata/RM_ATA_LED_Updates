@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/mina-26-ata/RM_ATA_LED_Updates/releases/download/v1.2/RM_ATA_LED.apk",
-  "notes": "نقل منفذ إشارة اليمين في NodeMCU ESP8266 من D0 إلى D6 (GPIO12) ليعمل بسهولة D1 نفسها (مباشرة مع GND بدون مقاومة خارجية)، مع تحديث خريطة التوصيلات وفيرموير البوردة."
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/mina-26-ata/RM_ATA_LED_Updates/releases/download/v1.3/RM_ATA_LED.apk",
+  "notes": "تحسين تحديث البوردة لاسلكياً عبر الواي فاي (إغلاق الاتصال وتفادي التعليق وإعادة المحاولة التلقائية وتوضيح أسباب الفشل)، ونقل منافذ NodeMCU ESP8266 لترتيب D تصاعدي آمن بدون أي مقاومات خارجية وتجاور الإشارتين (يمين D1 وشمال D2) مع فيرموير 1.2.0-ota."
 }
