@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/mina-26-ata/RM_ATA_LED_Updates/releases/download/v1.4/RM_ATA_LED.apk",
-  "notes": "إضافة زر التحقق من آخر التحديثات في الصفحة الرئيسية أعلى زر تحديث البوردة مع إرشادات الاتصال بالإنترنت، مع تضمين جميع تحسينات التحديث اللاسلكي للبوردة وترتيب المنافذ D1..D7."
+    "versionCode":  6,
+    "versionName":  "1.5",
+    "apkUrl":  "https://github.com/mina-26-ata/RM_ATA_LED_Updates/releases/download/v1.5/RM_ATA_LED.apk",
+    "notes":  "إضافة قسم عرض الساعة على الفانوسين (الساعات يسار والدقائق يمين) مع اختيار نظام 12 أو 24 ساعة و7 تأثيرات متنوعة لتغير الأرقام أبرزها الانفجار والتجمع، مع استمرار التشغيل عند الخروج من التطبيق وتحديث فيرموير البوردة 1.3.0."
 }
