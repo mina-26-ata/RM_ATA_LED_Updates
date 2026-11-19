@@ -1,6 +1,6 @@
 {
-    "versionCode":  8,
-    "versionName":  "1.7",
-    "apkUrl":  "https://github.com/mina-26-ata/RM_ATA_LED_Updates/releases/download/v1.7/RM_ATA_LED.apk",
-    "notes":  "تطوير قسم الصوت بإضافة 5 أنماط تفاعل شبابية حديثة ومشغل مقاطع صوتية من الهاتف مباشرة، وإضافة قسم اكس بوكس (4 ألعاب تعمل بمقياس التسارع والجيروسكوب مع وميض أحمر وعرض النتيجة على الليدات وإعادة تلقائية)."
+    "versionCode":  9,
+    "versionName":  "1.8",
+    "apkUrl":  "https://github.com/mina-26-ata/RM_ATA_LED_Updates/releases/download/v1.8/RM_ATA_LED.apk",
+    "notes":  "تحديث شامل لصفحة الويب المدمجة في البوردتين (فيرموير 1.4.0-ota) بإضافة قسم عرض الساعة، و5 تفاعلات صوتية شبابية مع تشغيل المقاطع الصوتية، وقسم اكس بوكس بـ 4 ألعاب حركة، وتضمين التحديث اللاسلكي OTA."
 }
