@@ -1,6 +1,6 @@
 {
-    "versionCode": 12,
-    "versionName": "2.1",
-    "apkUrl": "https://github.com/mina-26-ata/RM_ATA_LED_Updates/releases/download/v2.1/RM_ATA_LED.apk",
-    "notes": "تحديث v2.1 + فيرموير 1.5.2-ota: إضافة مربع «تشغيل عشوائي للمؤثرات» فوق زر الاستعادة في قسم مؤثرات السيارات مع ضبط وقت التغيير بالثواني وقفل جميع المؤثرات وتعطيل لمسها أثناء تفعيله في التطبيق وصفحة الويب."
+    "versionCode": 13,
+    "versionName": "2.2",
+    "apkUrl": "https://github.com/mina-26-ata/RM_ATA_LED_Updates/releases/download/v2.2/RM_ATA_LED.apk",
+    "notes": "تحديث v2.2 + فيرموير 1.5.3-ota: تغيير زر التحكم العلوي إلى «إطفاء إجباري للفوانيس» باللون الأحمر ويتحول عند التفعيل إلى اللون الأخضر بعنوان «تشغيل الفوانيس» مع بقاء إشارات السيارة والفرامل تعمل تلقائياً."
 }
