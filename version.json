@@ -1,6 +1,6 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.6",
-    "apkUrl":  "https://github.com/mina-26-ata/RM_ATA_LED_Updates/releases/download/v1.6/RM_ATA_LED.apk",
-    "notes":  "تحسين وضوح ودقة معاينة الساعة وعرض الفانوسين (الساعات يسار والدقائق يمين) بشكل منفصل وحاد بدون تشويش، مع تضمين فيرموير 1.3.0-ota المحدّث."
+    "versionCode":  8,
+    "versionName":  "1.7",
+    "apkUrl":  "https://github.com/mina-26-ata/RM_ATA_LED_Updates/releases/download/v1.7/RM_ATA_LED.apk",
+    "notes":  "تطوير قسم الصوت بإضافة 5 أنماط تفاعل شبابية حديثة ومشغل مقاطع صوتية من الهاتف مباشرة، وإضافة قسم اكس بوكس (4 ألعاب تعمل بمقياس التسارع والجيروسكوب مع وميض أحمر وعرض النتيجة على الليدات وإعادة تلقائية)."
 }
