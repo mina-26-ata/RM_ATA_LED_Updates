@@ -1,6 +1,6 @@
 {
-    "versionCode": 27,
-    "versionName": "3.6",
-    "apkUrl": "https://github.com/mina-26-ata/RM_ATA_LED_Updates/releases/download/v3.6/RM_ATA_LED.apk",
-    "notes": "تحديث v3.6 + فيرموير 1.5.17-ota: تفعيل الفيديو الترحيبي الجديد في شاشة الدخول، إضافة تأثير شعار رامز (#1 في المؤثرات وتأثير ترحيبي افتراضي على التطبيق والبوردتين)، إضافة تأثير DNA رامز المتوهج، ومراجعة وتنقية أوصاف كافة التأثيرات."
+    "versionCode": 28,
+    "versionName": "3.7",
+    "apkUrl": "https://github.com/mina-26-ata/RM_ATA_LED_Updates/releases/download/v3.7/RM_ATA_LED.apk",
+    "notes": "تحديث v3.7 + فيرموير 1.5.18-ota: منع عكس شعار رامز أفقياً عند اختيار الفانوس الأيمن أو الأيسر، تحديث تأثير DNA رامز ليكون عمودياً متمايلاً ومتمدداً، وإضافة دعم بوردة ESP32 DIP-30 Type-C لتصبح 3 بوردات مدعومة."
 }
