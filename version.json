@@ -1,6 +1,6 @@
 {
-    "versionCode": 26,
-    "versionName": "3.5",
-    "apkUrl": "https://github.com/mina-26-ata/RM_ATA_LED_Updates/releases/download/v3.5/RM_ATA_LED.apk",
-    "notes": "تحديث v3.5 + فيرموير 1.5.16-ota: إضافة أشرطة السرعة والسطوع والدوران داخل إعدادات التشغيل العشوائي للمؤثرات مع حفظها في البرنامج والبوردة حتى بعد فصل الكهرباء، وحل مشكلة تأخر ظهور التحديث التلقائي."
+    "versionCode": 27,
+    "versionName": "3.6",
+    "apkUrl": "https://github.com/mina-26-ata/RM_ATA_LED_Updates/releases/download/v3.6/RM_ATA_LED.apk",
+    "notes": "تحديث v3.6 + فيرموير 1.5.17-ota: تفعيل الفيديو الترحيبي الجديد في شاشة الدخول، إضافة تأثير شعار رامز (#1 في المؤثرات وتأثير ترحيبي افتراضي على التطبيق والبوردتين)، إضافة تأثير DNA رامز المتوهج، ومراجعة وتنقية أوصاف كافة التأثيرات."
 }
